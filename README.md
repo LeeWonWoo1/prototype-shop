@@ -1,3 +1,13 @@
+# React 쇼핑몰 프로젝트
+
+[DEMO](https://objective-murdock-dfb5bc.netlify.app/){:target="\_blank"}
+
+<br>
+
+![screenshot](https://user-images.githubusercontent.com/62803763/132019003-eec22e48-afc3-4629-b910-990be0c91436.PNG)
+
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
