@@ -1,6 +1,6 @@
 # React 쇼핑몰 프로젝트
 
-[DEMO](https://objective-murdock-dfb5bc.netlify.app/){:target="\_blank"}
+[DEMO](https://objective-murdock-dfb5bc.netlify.app/)
 
 <br>
 
